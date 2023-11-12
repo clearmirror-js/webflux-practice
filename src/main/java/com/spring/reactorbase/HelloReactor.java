@@ -2,7 +2,7 @@ package com.spring.reactorbase;
 
 import reactor.core.publisher.Flux;
 
-public class Example5 {
+public class HelloReactor {
 
     public static void main(String[] args) {
         Flux.just("Hello", "Reactor")

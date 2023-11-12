@@ -14,7 +14,7 @@ import reactor.core.publisher.Mono;
 import java.net.URI;
 import java.util.Collections;
 
-public class Example6 {
+public class MonoAndFlux {
 
     public static void main(String[] args) {
         monoHelloReactor();
